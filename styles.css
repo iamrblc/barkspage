@@ -1,0 +1,27 @@
+/*
+selector {
+    property: value;
+}
+*/
+
+body {
+    background-color: #F0F8FF;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 12;
+    padding: 12;
+    cursor: url('cursor.png'), auto;
+}
+
+h1 {
+    /*color: #FFDB58;*/
+    font-size: 2em;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    cursor: url('cursor.png'), auto;
+}
+
